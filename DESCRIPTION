@@ -1,0 +1,10 @@
+Package: kbhit
+Type: Package
+Title: Keyboard input
+Version: 1.0
+Description: NA.
+License: BSD 2-clause License + file LICENSE
+Depends: R (>= 2.14.0)
+NeedsCompilation: yes
+Author: Drew Schmidt
+Maintainer: Drew Schmidt <wrathematics@gmail.com>

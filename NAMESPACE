@@ -1,0 +1,4 @@
+useDynLib(kbhit)
+
+
+exportPattern("^[[:alpha:]]+")
